@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar response deudas (CUIT)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>278b9a86-34a6-4dc0-bc99-fb7cf158ecc6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>593cd7dc-9423-4582-955a-dc0e0a36b1a0</id>
+      <masked>false</masked>
+      <name>t_response</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f3ddbed0-dd73-4925-a901-951a989d7988</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+</TestCaseEntity>

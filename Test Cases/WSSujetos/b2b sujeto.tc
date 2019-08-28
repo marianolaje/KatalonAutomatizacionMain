@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>b2b sujeto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6211284-d5ae-40c5-b662-faab6a475032</testCaseGuid>
+   <variable>
+      <defaultValue>'crm-ie-admin'</defaultValue>
+      <description></description>
+      <id>58fa4958-ef17-429f-8247-d6c1bb454c99</id>
+      <masked>false</masked>
+      <name>t_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'crm2812'</defaultValue>
+      <description></description>
+      <id>3010cd63-1714-4986-b8d5-18621fac4fdf</id>
+      <masked>false</masked>
+      <name>t_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'20256103584'</defaultValue>
+      <description></description>
+      <id>20be907c-3e77-49cc-88dc-544195037964</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+</TestCaseEntity>

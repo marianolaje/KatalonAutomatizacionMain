@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>afip mi inmueble ok (CUIT)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94d03620-eb4b-4c14-84e5-3311020454b7</testCaseGuid>
+   <variable>
+      <defaultValue>'20282516129'</defaultValue>
+      <description></description>
+      <id>31bd30d4-96ac-45b1-8f43-d7cf9448246a</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>'PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3NvIHZlcnNpb249IjIuMCI+PGlkIGRzdD0iYWZpcC1nb2JjYmEiIGV4cF90aW1lPSIxNTUyMzM1MjY1IiBnZW5fdGltZT0iMTU1MjMzNDk2NSIgc3JjPSJjbj1BdXRoc2VydmVyLCBvdT1ERVNFSU4sIG89QUZJUCwgYz1BUiIgdW5pcXVlX2lkPSIzMDUyOTc5MzUyIi8+PG9wZXJhdGlvbiB0eXBlPSJsb2dpbiIgdmFsdWU9ImdyYW50ZWQiPjxsb2dpbiBhdXRobWV0aG9kPSJwYXNzcGhyYXNlIiBlbnRpdHk9IjMzNjkzNDUwMjM5IiByZWdtZXRob2Q9IjMiIHNlcnZpY2U9ImFmaXAtZ29iY2JhIiB1aWQ9IjIwMjgyNTE2MTI5Ij48cmVsYXRpb25zPjxyZWxhdGlvbiBrZXk9IjIwMjU5MDI4Mzk3IiByZWx0eXBlPSIxMiIvPjxyZWxhdGlvbiBrZXk9IjIwMjgyNTE2MTI5IiByZWx0eXBlPSIxMiIvPjxyZWxhdGlvbiBrZXk9IjI3MjY0ODUzNDY1IiByZWx0eXBlPSIxMiIvPjwvcmVsYXRpb25zPjwvbG9naW4+PC9vcGVyYXRpb24+PC9zc28+'</defaultValue>
+      <description></description>
+      <id>1b50e6a7-6183-49e6-a71e-5519e7625fab</id>
+      <masked>false</masked>
+      <name>t_token</name>
+   </variable>
+   <variable>
+      <defaultValue>'PIFVSC4Fo5BYX3jIDKNLeeZpifOqt4P0G6bzqLGGUmAZ8RkyRwoBD7DqHOAyModmpAd+KUIL6syQY2M6Nq31vBHceunOqf2xFu2zms5gArk9CHQas8IZZinDRzju++Qj5iDQSxZrhZf1wL8Usonj+zLzZDCc5JsVS6IKMybVU8Y='</defaultValue>
+      <description></description>
+      <id>d38813ac-04a7-43d8-8c97-69e8d64fe415</id>
+      <masked>false</masked>
+      <name>t_sign</name>
+   </variable>
+   <variable>
+      <defaultValue>'estado'</defaultValue>
+      <description></description>
+      <id>8e055232-f3e0-42a0-96d6-0cf2065153f1</id>
+      <masked>false</masked>
+      <name>t_campo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b125c1ac-7f75-475e-ba3d-e94f890cc668</id>
+      <masked>false</masked>
+      <name>t_varCampo</name>
+   </variable>
+</TestCaseEntity>

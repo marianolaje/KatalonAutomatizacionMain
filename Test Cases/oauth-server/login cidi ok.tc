@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login cidi ok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e35b895-e7b3-4fbd-970f-6057f28e8afe</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.g_servidor_oauth</defaultValue>
+      <description></description>
+      <id>4ce4c702-fca7-46d7-aba4-07e6c3c9bdd6</id>
+      <masked>false</masked>
+      <name>t_servidor</name>
+   </variable>
+   <variable>
+      <defaultValue>'klk-client'</defaultValue>
+      <description></description>
+      <id>5c89cae5-9e87-44a4-b421-11589182b203</id>
+      <masked>false</masked>
+      <name>t_http_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'klk-secret'</defaultValue>
+      <description></description>
+      <id>202ecc8b-d057-49a0-8299-e372127ee2ff</id>
+      <masked>false</masked>
+      <name>t_http_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'592F70516F68446D43596D49736B4E5A535872686A3451544570733D'</defaultValue>
+      <description></description>
+      <id>95726d8d-9076-4746-a6a1-a98e2d093bff</id>
+      <masked>false</masked>
+      <name>t_cidi</name>
+   </variable>
+</TestCaseEntity>

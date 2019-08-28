@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar response auth sitTrib</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53131b04-9fc2-47c9-bbc0-b3ef435360da</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc1df877-00be-4dc5-9339-81c6b8a8bc48</id>
+      <masked>false</masked>
+      <name>t_response</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc271be9-cade-4a55-980c-f6d9375d2c95</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+</TestCaseEntity>

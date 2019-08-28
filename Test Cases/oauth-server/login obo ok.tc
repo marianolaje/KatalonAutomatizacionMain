@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login obo ok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dafc4759-611a-40f3-91dc-76f705ccd910</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.g_servidor_oauth</defaultValue>
+      <description></description>
+      <id>5f1421f9-1910-4115-86e3-9c2ece01da05</id>
+      <masked>false</masked>
+      <name>t_servidor</name>
+   </variable>
+   <variable>
+      <defaultValue>'klk-client'</defaultValue>
+      <description></description>
+      <id>a39b1e47-d151-4c3c-95aa-bee1bf5f7360</id>
+      <masked>false</masked>
+      <name>t_http_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'klk-secret'</defaultValue>
+      <description></description>
+      <id>02ba46f2-47e8-465f-8f1a-9124417d6441</id>
+      <masked>false</masked>
+      <name>t_http_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'rentas-ie-admin'</defaultValue>
+      <description></description>
+      <id>f5f20459-87e4-449a-bd2d-f54a56b6d90c</id>
+      <masked>false</masked>
+      <name>t_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'rentasie2812'</defaultValue>
+      <description></description>
+      <id>27759378-28a9-4350-84df-727b08bac7ae</id>
+      <masked>false</masked>
+      <name>t_password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.g_cuit</defaultValue>
+      <description></description>
+      <id>502fbbc1-6b6a-4109-aa67-b270cd4a7402</id>
+      <masked>false</masked>
+      <name>t_onbehalfof</name>
+   </variable>
+</TestCaseEntity>

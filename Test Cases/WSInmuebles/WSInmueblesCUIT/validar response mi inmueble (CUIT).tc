@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar response mi inmueble (CUIT)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>577a373d-22d8-4a60-a018-981ce806974f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>55454db6-aa37-45ce-a713-de5006245a59</id>
+      <masked>false</masked>
+      <name>t_response</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ad70cd9-abd6-4722-b460-9001fa3c6278</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d05f16e-1781-4c62-976d-d0f9ddc94947</id>
+      <masked>false</masked>
+      <name>t_campo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddbf957e-04db-47b8-8f8d-4d26cec899e8</id>
+      <masked>false</masked>
+      <name>t_varCampo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS inmueble (CUENTA)</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>3eddde5d-453e-4072-b59a-0df260ef2e2a</testSuiteGuid>
+   <testCaseLink>
+      <guid>8c3d4563-99d3-4245-a133-fbb957567702</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/WSInmuebles/WSInmueblesCUENTA/afip mi inmueble ok (CUENTA)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9d500736-a46c-4f69-9d0b-68a015e3cdb9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/WSInmuebles/Inmuebles(CUENTA)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9d500736-a46c-4f69-9d0b-68a015e3cdb9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Inmuebles</value>
+         <variableId>abe4e91a-0f36-4746-b6a1-f5411873bcca</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fa6f389b-af93-48d2-b923-0c785e64ee0c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0516d48b-d6da-4b31-af89-3ade803d90fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fe3811e6-2bb1-4a9f-b9fe-df005038ceb7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

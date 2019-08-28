@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>c2 sujeto obo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45cd8cca-56b0-4774-a37a-6a27965eb3b2</testCaseGuid>
+   <variable>
+      <defaultValue>'20282516129'</defaultValue>
+      <description></description>
+      <id>00cdb7c8-fa16-4866-8826-af282b6eb618</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>'rentas-ie-admin'</defaultValue>
+      <description></description>
+      <id>ee4e73ee-1bea-4b07-821e-972bd97cb586</id>
+      <masked>false</masked>
+      <name>t_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'rentasie2812'</defaultValue>
+      <description></description>
+      <id>f44b2219-5e52-41e9-8727-04c72193d96a</id>
+      <masked>false</masked>
+      <name>t_password</name>
+   </variable>
+</TestCaseEntity>

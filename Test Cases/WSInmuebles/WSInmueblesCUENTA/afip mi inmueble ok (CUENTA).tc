@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>afip mi inmueble ok (CUENTA)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fa86c66-68aa-4431-a68c-74c7277d450e</testCaseGuid>
+   <variable>
+      <defaultValue>'110111556521'</defaultValue>
+      <description></description>
+      <id>abe4e91a-0f36-4746-b6a1-f5411873bcca</id>
+      <masked>false</masked>
+      <name>t_cuenta</name>
+   </variable>
+   <variable>
+      <defaultValue>'crm-ie-admin'</defaultValue>
+      <description></description>
+      <id>fa6f389b-af93-48d2-b923-0c785e64ee0c</id>
+      <masked>false</masked>
+      <name>t_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'crm2812'</defaultValue>
+      <description></description>
+      <id>0516d48b-d6da-4b31-af89-3ade803d90fd</id>
+      <masked>false</masked>
+      <name>t_password</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>fe3811e6-2bb1-4a9f-b9fe-df005038ceb7</id>
+      <masked>false</masked>
+      <name>v_estado</name>
+   </variable>
+</TestCaseEntity>

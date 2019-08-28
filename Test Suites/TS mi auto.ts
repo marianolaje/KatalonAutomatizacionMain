@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS mi auto</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>9fbeae24-c05d-431f-a203-37c46bf9129d</testSuiteGuid>
+   <testCaseLink>
+      <guid>da1c07ee-74a4-4b03-8679-7620952a12e6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/WSAutomotores/mis autos/afip mis autos ok</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4d970a2e-58c0-4a8e-958f-2dd04a249c5e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/oauth-server/cuits-onbehalfof</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>199ea0d5-c2ab-4d96-91a1-148a785f55c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4d970a2e-58c0-4a8e-958f-2dd04a249c5e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DOMINIO</value>
+         <variableId>4959019d-4218-4753-afdd-324406a64ffa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c493885f-2a97-4f3c-9f17-ed0eefec2d61</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>53ac288a-8907-4be4-95cc-22541c4fc5be</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

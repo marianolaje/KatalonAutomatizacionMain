@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>main sitTributaria ok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d5896b5-5008-4a95-9596-702d3478bd80</testCaseGuid>
+   <variable>
+      <defaultValue>'20373171051'</defaultValue>
+      <description></description>
+      <id>9ce75228-22bf-475f-ab33-ada2adcdc62f</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+</TestCaseEntity>

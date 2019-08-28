@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar response sujeto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff6c7a73-7f0a-47f0-9615-a3dc953a0e5e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00a03e4f-e6a7-48f3-a7a9-c99c0ad09e2b</id>
+      <masked>false</masked>
+      <name>t_response</name>
+   </variable>
+</TestCaseEntity>

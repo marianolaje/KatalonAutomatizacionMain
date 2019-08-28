@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>c2 sujeto cidi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>014d2875-001c-4e64-b5cc-d51acf9c7519</testCaseGuid>
+   <variable>
+      <defaultValue>'20256103584'</defaultValue>
+      <description></description>
+      <id>d90fb440-291f-4303-8ac2-3dfcd6e63bb7</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>'592F70516F68446D43596D49736B4E5A535872686A3451544570733D'</defaultValue>
+      <description></description>
+      <id>996733a3-978e-4707-8912-673167b7bfea</id>
+      <masked>false</masked>
+      <name>t_cidi</name>
+   </variable>
+</TestCaseEntity>

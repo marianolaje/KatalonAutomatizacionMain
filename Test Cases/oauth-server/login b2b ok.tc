@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login b2b ok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fadf853-b2b3-422d-a437-7b53cb6b29d2</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.g_servidor_oauth</defaultValue>
+      <description></description>
+      <id>9b8bb4b6-8cf4-47e9-b98d-6aeef3442911</id>
+      <masked>false</masked>
+      <name>t_servidor</name>
+   </variable>
+   <variable>
+      <defaultValue>'klk-client'</defaultValue>
+      <description></description>
+      <id>8ebd708e-b5f4-41c1-9a25-499d723632e5</id>
+      <masked>false</masked>
+      <name>t_http_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'klk-secret'</defaultValue>
+      <description></description>
+      <id>b2b73315-4661-4575-a3b3-1fe0cf46ff40</id>
+      <masked>false</masked>
+      <name>t_http_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'crm-ie-admin'</defaultValue>
+      <description></description>
+      <id>a1e46d96-637c-4946-bb2d-33fdc95e4d79</id>
+      <masked>false</masked>
+      <name>t_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'crm2812'</defaultValue>
+      <description></description>
+      <id>fe8d88b1-96f3-409d-b602-c8924dbc4d9d</id>
+      <masked>false</masked>
+      <name>t_password</name>
+   </variable>
+</TestCaseEntity>

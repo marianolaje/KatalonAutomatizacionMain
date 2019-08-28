@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cidi mis autos ok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03efa22e-78c5-4c21-8e23-73763ec28ae1</testCaseGuid>
+   <variable>
+      <defaultValue>'20256103584'</defaultValue>
+      <description></description>
+      <id>b8fb2eac-8237-4e9d-b6bd-de2453b50a3b</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>'KNI955'</defaultValue>
+      <description></description>
+      <id>943d898c-dcea-4f59-b358-d2d4c6dce173</id>
+      <masked>false</masked>
+      <name>v_dominio</name>
+   </variable>
+   <variable>
+      <defaultValue>'592F70516F68446D43596D49736B4E5A535872686A3451544570733D'</defaultValue>
+      <description></description>
+      <id>945acb5b-a433-43e1-af3d-94f0b2c32852</id>
+      <masked>false</masked>
+      <name>t_cidi</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar response mis autos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ee46376-6187-4778-aaee-757a3382173e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e517d389-0871-4ed1-a2ee-19c301cd5693</id>
+      <masked>false</masked>
+      <name>t_response</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d80078cd-15f3-4b36-be4c-b1ac6e38989d</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ee0d8d5-61ea-405a-84dc-012b16bb0dc5</id>
+      <masked>false</masked>
+      <name>t_dominio</name>
+   </variable>
+</TestCaseEntity>

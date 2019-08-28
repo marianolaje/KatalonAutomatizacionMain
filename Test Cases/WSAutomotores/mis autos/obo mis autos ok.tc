@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>obo mis autos ok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aad3eaac-eaa9-4f14-9b04-9b435a7bf188</testCaseGuid>
+   <variable>
+      <defaultValue>'20256103584'</defaultValue>
+      <description></description>
+      <id>58066b9b-c80a-46a9-9ff3-1fd813af75d3</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>'KNI955'</defaultValue>
+      <description></description>
+      <id>b5e1eba3-43b8-4c57-90a5-fe083705c663</id>
+      <masked>false</masked>
+      <name>v_dominio</name>
+   </variable>
+   <variable>
+      <defaultValue>'rentas-ie-admin'</defaultValue>
+      <description></description>
+      <id>f2cab626-35c3-4dbd-be8d-6db6e6434ddf</id>
+      <masked>false</masked>
+      <name>t_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'rentasie2812'</defaultValue>
+      <description></description>
+      <id>b7576a6e-d74f-4eb2-999d-2d604d970edd</id>
+      <masked>false</masked>
+      <name>t_password</name>
+   </variable>
+</TestCaseEntity>

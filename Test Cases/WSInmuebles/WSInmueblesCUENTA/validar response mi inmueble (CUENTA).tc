@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar response mi inmueble (CUENTA)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4bac529-6dba-40f4-89ef-7c85fff720e7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fcaa59f-cfe4-4de8-99a0-5805123dccb8</id>
+      <masked>false</masked>
+      <name>t_response</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2a3db0ce-48e4-40a7-9416-ac690cddb395</id>
+      <masked>false</masked>
+      <name>t_cuenta</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>fb6d73d1-8e54-45c4-a1c2-3d56b7be3bb7</id>
+      <masked>false</masked>
+      <name>t_estado</name>
+   </variable>
+</TestCaseEntity>

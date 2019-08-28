@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcf28278-5508-415b-8a38-5c0b6ebcbf9a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c392fe25-bd7c-4735-b07c-e26e7f8fbf5a</id>
+      <masked>false</masked>
+      <name>t_response</name>
+   </variable>
+</TestCaseEntity>
