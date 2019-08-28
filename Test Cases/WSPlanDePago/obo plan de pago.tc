@@ -6,7 +6,7 @@
    <comment></comment>
    <testCaseGuid>523eaf12-8c50-46ed-9255-891d6824fb20</testCaseGuid>
    <variable>
-      <defaultValue>'20282516129'</defaultValue>
+      <defaultValue>'21456789119'</defaultValue>
       <description></description>
       <id>58d09ae4-cd64-464d-b9bb-083ab3fa3756</id>
       <masked>false</masked>
@@ -27,17 +27,10 @@
       <name>t_sign</name>
    </variable>
    <variable>
-      <defaultValue>'estado'</defaultValue>
+      <defaultValue>'8974657374'</defaultValue>
       <description></description>
-      <id>9c36abc8-49d3-4448-abbd-e00cfe865855</id>
+      <id>9d56a864-22fc-4f23-bd3b-4e5e0b04ac55</id>
       <masked>false</masked>
-      <name>t_campo</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>33a541aa-85f6-4435-889d-e26daa25e795</id>
-      <masked>false</masked>
-      <name>t_varCampo</name>
+      <name>t_idPlan</name>
    </variable>
 </TestCaseEntity>

@@ -21,13 +21,13 @@ println(t_response.responseBodyContent)
 Map parsedJson = slurper.parseText(t_response.responseBodyContent)
 
 'si retorno datos'
-if ((parsedJson.data != null) && (parsedJson.data.inmueble != null)) {
-	def array1 = parsedJson.data.inmueble
+if ((parsedJson.data != null) && (parsedJson.data.lstPlanSimulado != null)) {
+	def array1 = parsedJson.data.lstPlanSimulado.idEstado
 
 	def bandera = false
 
-	for (def terreno : array1) {
-		if (terreno.t_campo == t_varCampo) {
+	for (def cuotas : array1) {
+		if (cuotas == null || cuotas.compareToIgnoreCase('VIGENTE') || cuotas.compareToIgnoreCase('VENCIDA')) {
 			bandera = true
 
 			break
@@ -37,12 +37,10 @@ if ((parsedJson.data != null) && (parsedJson.data.inmueble != null)) {
 	if (!(bandera)) {
 		
 
-		KeywordUtil.markFailed(('Existe deuda del inmueble para el cuit ') + t_cuit)
+		KeywordUtil.markFailed(('ERROR PARA EL CUIT Y PLAN ------>') + t_cuit + ' - ' + t_idPlan)
 	}
 } else {
-	println(v_dominio)
-
 	println(t_cuit)
 
-	KeywordUtil.markFailed(('no se encontro el cuit ') + t_cuit)
+	KeywordUtil.markFailed(('NO EXISTE EL CUIT Y PLAN ------>') + t_cuit + ' - ' + t_idPlan)
 }

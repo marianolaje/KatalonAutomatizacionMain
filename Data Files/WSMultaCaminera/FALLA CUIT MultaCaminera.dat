@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>FALLA CUIT MultaCaminera</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>98d7a790-ec26-4526-84e9-167be3e1b709</dataFileGUID>
+   <dataSourceUrl>C:\Users\maria\Desktop\kolektor\Testing\Katalon\AutomatizacionDeudaMultaCaminera\CUIT DeudaMultaFallar.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Hoja1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

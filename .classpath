@@ -115,5 +115,6 @@
 	<classpathentry kind="lib" path="C:/Users/maria/Desktop/kolektor/Testing/Katalon/Katalon_Studio_Windows_64-6.2.1/plugins/ca.juliusdavies.not-yet-commons-ssl_0.3.11.jar"/>
 	<classpathentry kind="lib" path="C:/Users/maria/Desktop/kolektor/Testing/Katalon/Katalon_Studio_Windows_64-6.2.1/plugins/com.kms.katalon.preferences_1.0.0.201906210933.jar"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

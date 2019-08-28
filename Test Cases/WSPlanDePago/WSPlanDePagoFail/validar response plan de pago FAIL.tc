@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar response plan de pago FAIL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c51f326-2070-4883-9458-e08ef667a491</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>42561dcd-882a-4468-be9f-34b70b50bea2</id>
+      <masked>false</masked>
+      <name>t_response</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5cfa8529-f309-406d-8786-a9b371d0d781</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.g_idPlan</defaultValue>
+      <description></description>
+      <id>ef70c881-729e-4d2d-9974-525f83193f3f</id>
+      <masked>false</masked>
+      <name>t_idPlan</name>
+   </variable>
+</TestCaseEntity>

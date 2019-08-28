@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSPlanDePago</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>2c1c05c8-6aeb-43f1-8b24-2e01479d800a</testSuiteGuid>
+   <testCaseLink>
+      <guid>c01694ea-7064-4e95-8b23-e756373fe913</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/WSPlanDePago/obo plan de pago</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0257df3c-769d-42a7-bb3d-95abf913f685</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/WSPlanDePago/CuitConPlanDePago</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>0257df3c-769d-42a7-bb3d-95abf913f685</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CUIT</value>
+         <variableId>58d09ae4-cd64-464d-b9bb-083ab3fa3756</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0f4a0085-b264-4ffd-b872-8630abd01cf0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e2a2e190-0a56-4489-852e-38c758612ce9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0257df3c-769d-42a7-bb3d-95abf913f685</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Num Plan de Pago</value>
+         <variableId>9d56a864-22fc-4f23-bd3b-4e5e0b04ac55</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

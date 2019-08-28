@@ -20,17 +20,10 @@
       <name>t_cuit</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>GlobalVariable.g_idPlan</defaultValue>
       <description></description>
-      <id>944de0fb-35cd-4c5e-b16f-13f6e76464ef</id>
+      <id>63995156-9c91-4b85-aff5-d95a7b1b3b42</id>
       <masked>false</masked>
-      <name>t_campo</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>c9653493-32cf-48d5-a4dc-61cf5ab461c7</id>
-      <masked>false</masked>
-      <name>t_varCampo</name>
+      <name>t_idPlan</name>
    </variable>
 </TestCaseEntity>

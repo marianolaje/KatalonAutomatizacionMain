@@ -19,7 +19,7 @@
    </httpHeaderProperties>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://apptest.rentascordoba.gob.ar/WSRestPSRM/${r_cuit}/obtenerplanpago/${r_plan}?idPlan=${r_idPlan}&amp;access_token=${r_access_token}</restUrl>
+   <restUrl>https://apptest.rentascordoba.gob.ar/WSRestPSRM/${r_cuit}/obtenerplanpago/?idPlan=${r_idPlan}&amp;access_token=${r_access_token}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -38,13 +38,6 @@
       <id>007743b7-0749-4a06-96c1-4e9ebe3365f2</id>
       <masked>false</masked>
       <name>r_cuit</name>
-   </variables>
-   <variables>
-      <defaultValue>GlobalVariable.g_planDePago</defaultValue>
-      <description></description>
-      <id>8356e105-feed-4033-bda8-e448699d4f5f</id>
-      <masked>false</masked>
-      <name>r_plan</name>
    </variables>
    <variables>
       <defaultValue>GlobalVariable.g_idPlan</defaultValue>

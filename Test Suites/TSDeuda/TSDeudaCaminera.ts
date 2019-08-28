@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSDeudaCaminera</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>ec38a736-4786-4ec3-b760-96d8136b4d50</testSuiteGuid>
+   <testCaseLink>
+      <guid>efcdcbb4-2fd8-45a6-8969-465eb63b9001</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/WSDeudas/obo deudas (CUIT)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ce8aea05-2a85-40c7-9c59-2fbec5a79982</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/WSMultaCaminera/CUIT MultaCaminera</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>ce8aea05-2a85-40c7-9c59-2fbec5a79982</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CUITS</value>
+         <variableId>999d7253-d308-4e5b-85f1-3e357c026a1a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b5440c56-3588-4279-ad98-f6f8fe371e8d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c0c5d7cf-a75c-4375-8e4e-f9e830c4b544</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

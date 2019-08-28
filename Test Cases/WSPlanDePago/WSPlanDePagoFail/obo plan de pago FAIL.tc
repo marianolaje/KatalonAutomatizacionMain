@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>obo plan de pago FAIL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>694d9fc5-5cd3-4ab8-97a2-7ed73b5b44b1</testCaseGuid>
+   <variable>
+      <defaultValue>'21456789119'</defaultValue>
+      <description></description>
+      <id>9759b537-7db3-4810-9d05-9e5114dbc6b8</id>
+      <masked>false</masked>
+      <name>t_cuit</name>
+   </variable>
+   <variable>
+      <defaultValue>'PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3NvIHZlcnNpb249IjIuMCI+PGlkIGRzdD0iYWZpcC1nb2JjYmEiIGV4cF90aW1lPSIxNTUyMzM1MjY1IiBnZW5fdGltZT0iMTU1MjMzNDk2NSIgc3JjPSJjbj1BdXRoc2VydmVyLCBvdT1ERVNFSU4sIG89QUZJUCwgYz1BUiIgdW5pcXVlX2lkPSIzMDUyOTc5MzUyIi8+PG9wZXJhdGlvbiB0eXBlPSJsb2dpbiIgdmFsdWU9ImdyYW50ZWQiPjxsb2dpbiBhdXRobWV0aG9kPSJwYXNzcGhyYXNlIiBlbnRpdHk9IjMzNjkzNDUwMjM5IiByZWdtZXRob2Q9IjMiIHNlcnZpY2U9ImFmaXAtZ29iY2JhIiB1aWQ9IjIwMjgyNTE2MTI5Ij48cmVsYXRpb25zPjxyZWxhdGlvbiBrZXk9IjIwMjU5MDI4Mzk3IiByZWx0eXBlPSIxMiIvPjxyZWxhdGlvbiBrZXk9IjIwMjgyNTE2MTI5IiByZWx0eXBlPSIxMiIvPjxyZWxhdGlvbiBrZXk9IjI3MjY0ODUzNDY1IiByZWx0eXBlPSIxMiIvPjwvcmVsYXRpb25zPjwvbG9naW4+PC9vcGVyYXRpb24+PC9zc28+'</defaultValue>
+      <description></description>
+      <id>e1967555-7492-4e9d-9e29-afe03bcd3311</id>
+      <masked>false</masked>
+      <name>t_token</name>
+   </variable>
+   <variable>
+      <defaultValue>'PIFVSC4Fo5BYX3jIDKNLeeZpifOqt4P0G6bzqLGGUmAZ8RkyRwoBD7DqHOAyModmpAd+KUIL6syQY2M6Nq31vBHceunOqf2xFu2zms5gArk9CHQas8IZZinDRzju++Qj5iDQSxZrhZf1wL8Usonj+zLzZDCc5JsVS6IKMybVU8Y='</defaultValue>
+      <description></description>
+      <id>af300619-26a7-4307-9b88-57ce13ae265e</id>
+      <masked>false</masked>
+      <name>t_sign</name>
+   </variable>
+   <variable>
+      <defaultValue>'8974657374'</defaultValue>
+      <description></description>
+      <id>8d20f63f-636b-4a24-961f-b891ed55c3f6</id>
+      <masked>false</masked>
+      <name>t_idPlan</name>
+   </variable>
+</TestCaseEntity>
